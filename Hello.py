@@ -9,3 +9,5 @@ print("Hello World!")
 name = input("What is your name? ")
 if name == "Blake":
 	print("you rock!")
+else:
+	print("you suck")
