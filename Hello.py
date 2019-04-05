@@ -8,6 +8,6 @@ print("Hello World!")
 
 name = input("What is your name? ")
 if name == "Blake":
-	print("you rock!")
+	print("you suck!")
 else:
-	print("you suck")
+	print("Blake still sucks ")
